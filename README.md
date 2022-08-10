@@ -31,6 +31,6 @@ Scroll down slowly
 .
 .
 
-![](https://github.com/likornguth/mergekiniksademo/blob/main/KINIKSA%20_bw_final.png)
+![](https://github.com/likornguth/mergekiniksademo/blob/main/targetimage.jpg)
 
 NOTE: this repo does not contain the heart gltf model and video2 file since they are too large
