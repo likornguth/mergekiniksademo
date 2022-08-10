@@ -10,7 +10,7 @@ Developed in 8th Wall, using three.js and WebGL
 # Try it Out!
 
 First, scan this QR code
-![](https://github.com/likornguth/mergekiniksademo/blob/main/FINAL%20demo%20presentation.jpg)
+![](https://github.com/likornguth/mergekiniksademo/blob/main/8code%20(15).png)
 
 
 Then, and this is very important, hold your camera about a foot away from your laptop screen, and completely parallel to it
