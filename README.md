@@ -7,4 +7,6 @@ Developed in 8th Wall, using three.js and WebGL
 ![]()
 ---
 
-this repo does not contain the heart gltf model and video2 file since they are too large
+# Try it Out!
+
+NOTE: this repo does not contain the heart gltf model and video2 file since they are too large
