@@ -1,4 +1,4 @@
-# mergekiniksademo
+# Augmented Reality Portfolio
 
 This project is an interactive augmented reality portfolio, showcasing client work for the Kiniksa Arcalyst product launch!
 Developed in 8th Wall, using three.js and WebGL
