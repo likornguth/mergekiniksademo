@@ -9,4 +9,7 @@ Developed in 8th Wall, using three.js and WebGL
 
 # Try it Out!
 
+First, scan this QR code
+![](https://github.com/likornguth/mergekiniksademo/blob/main/FINAL%20demo%20presentation.jpg)
+
 NOTE: this repo does not contain the heart gltf model and video2 file since they are too large
