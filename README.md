@@ -16,7 +16,7 @@ First, scan this QR code
 
 Then, and this is very important, hold your camera about a foot away from your laptop screen, and completely parallel to it
 
-Have you done that?
+Done?
 
 .
 .
@@ -27,10 +27,11 @@ Scroll down slowly
 .
 .
 .
+
 .
 .
 .
-.
+
 
 ![](https://github.com/likornguth/mergekiniksademo/blob/main/targetimage.jpg)
 
